@@ -1,0 +1,13 @@
+# Large video files that exceed GitHub's 100MB limit
+product_content_folder/groovy_attire/Groovy_attire_Edit.mov
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+
+# Old portfolio folder (duplicate)
+portfolio2/
