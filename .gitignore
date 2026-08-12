@@ -1,13 +1,19 @@
 # Large video files that exceed GitHub's 100MB limit
 product_content_folder/groovy_attire/Groovy_attire_Edit.mov
+campaign_content_folder/sdpi_islamabad/sdpi_islamabad_reel_2.MOV
+
+# Large MOV files not referenced in the site
+campaign_content_folder/sdpi_islamabad/sdpi_islamabad.MOV
+campaign_content_folder/sdpi_islamabad/sdpi_islamabad_reel_3.MOV
+campaign_content_folder/sdpi_islamabad/sdpi_islamabad_reel_5.MOV
+power_pulse_daily/power_pulse_daily_1.MOV
+product_content_folder/groovy_attire/Groovy_attire_Edit.mov
+product_content_folder/nomoshpk/nomosh_reel_1.MOV
+product_content_folder/orange_cream_madina/orange_cream_madina.MOV
+product_content_folder/reesh_candles_co/reesh_candles_co_reel.MOV
+product_content_folder/safa_jewellers/safa_jewellers_reel_1.MOV
 
 # OS files
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Editor
-.vscode/
-
-# Old portfolio folder (duplicate)
-portfolio2/
